@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescritp**
 
-- 💬 Ask me about **react, js**
+- 💬 Ask me about **react, JS , JAVA**
 
 - 📫 How to reach me **samimahassan55@gmail.com**
 
