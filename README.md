@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **samimahassan55@gmail.com**
 
-- ⚡ Fun fact **I think i am very good at communicating**
+- ⚡ Fun fact **I think i am very good at communicating and enjoy diversity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
