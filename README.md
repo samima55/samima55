@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm samima</h1>
-<h3 align="center">A passionate full stack developer from copenhagen</h3>
+<h3 align="center">Im a passionate full-stack developer with a strong passion for creating outstanding front-end experiences and designing APIs and database.Currently I am working on e-learning web application in HackYourFuture Denmark, where I'm actively  using technologies like JavaScript, React, Node.js, and MySQL, PostgresSQL</h3>
 
 - 🔭 I’m currently working on [meal sharing](https://github.com/samima55/meal-sharing)
 
