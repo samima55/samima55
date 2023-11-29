@@ -1,5 +1,5 @@
 <h1 align="center" color="black">Hi 👋, I'm Samima</h1>
-<h3 align="center" color="black">I'm a passionate full-stack developer with a strong passion for creating outstanding front-end experiences and designing APIs and databases. Currently, I am working on an e-learning web application at HackYourFuture Denmark, where I'm actively using technologies like JavaScript, React, Node.js, and TypeScript, PostgreSQL.</h3>
+<h3 align="center" color="black"></h3>
 
 - 🔭 I’m currently working on [e-learning](https://github.com/HackYourFuture-CPH/class-25-erikson)
 
